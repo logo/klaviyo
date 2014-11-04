@@ -4,13 +4,13 @@
  */
 
 .logo[data-logo="Klaviyo"] {
-  width: 3.017383546em;
+  width: 3.0em;
   /* (356.99/106.48) * (1-.08-.02) - 0 */
 }
 
 .logo[data-logo="Klaviyo"] > * {
   background-image: url(images/logo.svg);
-  margin: .08em 0 .02em 0;
+  margin: -.08em 0 0 0;
 }
 
 .logo[data-logo="Klaviyo"].monochromatic > * {
